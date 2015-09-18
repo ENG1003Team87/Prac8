@@ -1,11 +1,12 @@
 Members:
 
 LIST OF MEMBERS FOR TEAM X
- 
+
 MEMBER 1 NAME
  
 Marko Kocev
  
-MEMBER 3 NAME
+Maiher Chopra
+id: 26892820
  
 MEMBER 4 NAME
