@@ -1,6 +1,28 @@
-
+Members:
 <<<<<<< HEAD
 LIST OF MEMBERS FOR TEAM X
+<<<<<<< HEAD
+ 
+MEMBER 1 ShuangXi Li
+ 
+MEMBER 2 Maiher 
+ 
+MEMBER 3 Charlie
+ 
+MEMBER 4 NAME
+
+
+
+
+ShuangXi Li
+
+A FUNNY GUY, WHO COME FROM CHINA.
+
+
+ROLE IN PROJECT:assignment uploader
+
+Preferred branch of engineering:  ENVIRONMENTAL 
+=======
 
 MEMBER 1 NAME
  
@@ -12,4 +34,5 @@ Maiher Chopra
 id: 26892820
  
 MEMBER 4 NAME
+>>>>>>> master
 
