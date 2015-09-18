@@ -4,7 +4,7 @@ LIST OF MEMBERS FOR TEAM X
 
 MEMBER 1 NAME
  
-MEMBER 2 NAME
+Marko Kocev
  
 Maiher Chopra
 id: 26892820
